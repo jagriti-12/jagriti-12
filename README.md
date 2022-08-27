@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jagriti-12
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...c/c++
-- 💞️ I’m looking to collaborate on ...Microsoft 
+- 💞️ I’m looking to collaborate with ...Microsoft/Google
 - 📫 How to reach me ...jags.jagriti12@gmail.com
 
 <!---
