@@ -1,13 +1,109 @@
+<h1 align="center">Hi 👋, I'm Jagriti</h1>
+<h3 align="center">Recent Grad in Computer Science from Chandigarh University and exploring the realm of Full Stack Development, UI/UX Designing and Project Management.</h3>
+<hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
+
 # 💫 About Me:
-- 🎓 CS Grad from **Chandigarh University**, 2021-2025 <br>- 🔭 I’m currently working on **AI-based Interview Prep** System, Open for your review.<br>- 🤝 I’m looking to collaborate on **frontend web projects**, **open-source contributions**, or **ML-based research**<br>- 💡 Passionate about building intuitive UIs & scalable frontends<br>- 🌱 I’m currently learning **Next.js**, diving deeper into **DSA |  React.js**, and exploring **Frontend Frameworks and tools**<br>- 💬 Fresher and recent graduate, who is actively seeking a new opportunity in Development area <br>- 😄 Lifelong learner, always hungry to grow & explore<br>- 🚀 Looking to collaborate with with minds who are experienced and ready to share.<br>- 🧠 Lifelong learner, always hungry to grow & explore
+- 🎓 CS Grad from **Chandigarh University**, 2021-2025 <br>- 🔭 I’m currently working on **AI-based Interview Prep** System, Open for your review.<br>- 🤝 I’m looking to collaborate on **frontend web projects**, **open-source contributions**, or **ML-based research**<br>- 💡 Passionate about building intuitive UIs & scalable frontends<br>- 🌱 I’m currently learning **Next.js**, diving deeper into **DSA |  React.js**, and exploring **Frontend Frameworks and tools**<br>- 💬 Fresher and recent graduate, who is actively seeking a new opportunity in Development area <br>- 😄 Lifelong learner, always hungry to grow & explore<br>- 🚀 Looking to collaborate with with minds who are experienced and ready to share.<br>- 🧠 Lifelong learner, always hungry to grow & explore.<br>- 💬 Ask me about **🌏 Web Development, 🧑‍💻 UI/UX Designing ✌️ Leadership, 📜 Research Papers,⚙️ Machine Learning and Visualization**
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me/1268569313938509845) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagritisachdeva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jagriti-sachdeva/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jags.jagriti12@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=plastic&logo=proto.io&logoColor=00e5ff) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
+<!-- 🧠 Core Programming Languages -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">🧠 Core Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
+</div>
+
+
+<!-- ☁️ Deployment Platforms -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">☁️ Deployment Platforms</h3>
+<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" />
+<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud logo" />
+</div>
+
+<!-- 🎨 Frontend Frameworks & Libraries -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">🎨 Frontend Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+<img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux logo" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo" />
+<img src="https://skillicons.dev/icons?i=sass" height="40" alt="SASS logo" />
+<img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js logo" />
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" />
+</div>
+
+<!-- 🛠️ Backend & APIs -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">🛠️ Backend & APIs</h3>
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI logo" />
+<img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel logo" />
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
+<img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM logo" />
+</div>
+
+<!-- 🗃️ Databases -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">🗃️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite logo" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
+</div>
+
+<!-- 🎨 Design & Prototyping -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">🎨 Designing & Prototyping</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark" height="40" alt="Figma logo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=canva&theme=dark" height="40" alt="Canva logo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=xd&theme=dark" height="40" alt="Adobe XD logo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator&theme=dark" height="40" alt="Adobe Illustrator logo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=framer&theme=dark" height="40" alt="Framer logo" />
+</div>
+
+<!-- 📊 Data Science & ML -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">📊 DataScience, ML & Visualization</h3>
+<img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch logo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" height="40" alt="NumPy logo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="40" alt="Pandas logo" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=plotly&theme=dark" height="40" alt="Plotly logo" />
+
+</div>
+
+<!-- 🛡️ Version Control & DevOps -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">🛡️ Version Control & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions logo" />
+</div>
+
+<!-- ⚙️ Productivity & Others -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
+  <h3 style="margin: 0 16px 0 0;">⚙️ Productivity & Others</h3>
+<img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion logo" />
+<img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo" />
+<img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js logo" />
+</div>
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jagriti-12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jagriti-12&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagriti-12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -21,4 +117,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jagriti-12&icon=7&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
