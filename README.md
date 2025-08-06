@@ -3,7 +3,16 @@
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
 # 💫 About Me:
-- 🎓 CS Grad from **Chandigarh University**, 2021-2025 <br>- 🔭 I’m currently working on **AI-based Interview Prep** System, Open for your review.<br>- 🤝 I’m looking to collaborate on **frontend web projects**, **open-source contributions**, or **ML-based research**<br>- 💡 Passionate about building intuitive UIs & scalable frontends<br>- 🌱 I’m currently learning **Next.js**, diving deeper into **DSA |  React.js**, and exploring **Frontend Frameworks and tools**<br>- 💬 Fresher and recent graduate, who is actively seeking a new opportunity in Development area <br>- 😄 Lifelong learner, always hungry to grow & explore<br>- 🚀 Looking to collaborate with with minds who are experienced and ready to share.<br>- 🧠 Lifelong learner, always hungry to grow & explore.<br>- 💬 Ask me about **🌏 Web Development, 🧑‍💻 UI/UX Designing ✌️ Leadership, 📜 Research Papers,⚙️ Machine Learning and Visualization**
+- 🎓 CS Grad from **Chandigarh University**, 2021-2025 <br>
+- 🔭 I’m currently working on **AI-based Interview Prep** System, Open for your review.<br>
+- 🤝 I’m looking to collaborate on **frontend web projects**, **open-source contributions**, or **ML-based research**<br>
+- 💡 Passionate about building intuitive UIs & scalable frontends<br>
+- 🌱 I’m currently learning **Next.js**, diving deeper into **DSA |  React.js**, and exploring **Frontend Frameworks and tools**<br>
+- 💬 Fresher and recent graduate, who is actively seeking a new opportunity in Development area <br>
+- 😄 Lifelong learner, always hungry to grow & explore<br>
+- 🚀 Looking to collaborate with with minds who are experienced and ready to share.<br>
+- 🧠 Lifelong learner, always hungry to grow & explore.<br>
+- 💬 Ask me about **🌏 Web Development, 🧑‍💻 UI/UX Designing ✌️ Leadership, 📜 Research Papers,⚙️ Machine Learning and Visualization**
 
 <hr>
 
