@@ -5,10 +5,34 @@
 # 💫 About Me:
 - 🎓 CS Grad from **Chandigarh University**, 2021-2025 <br>- 🔭 I’m currently working on **AI-based Interview Prep** System, Open for your review.<br>- 🤝 I’m looking to collaborate on **frontend web projects**, **open-source contributions**, or **ML-based research**<br>- 💡 Passionate about building intuitive UIs & scalable frontends<br>- 🌱 I’m currently learning **Next.js**, diving deeper into **DSA |  React.js**, and exploring **Frontend Frameworks and tools**<br>- 💬 Fresher and recent graduate, who is actively seeking a new opportunity in Development area <br>- 😄 Lifelong learner, always hungry to grow & explore<br>- 🚀 Looking to collaborate with with minds who are experienced and ready to share.<br>- 🧠 Lifelong learner, always hungry to grow & explore.<br>- 💬 Ask me about **🌏 Web Development, 🧑‍💻 UI/UX Designing ✌️ Leadership, 📜 Research Papers,⚙️ Machine Learning and Visualization**
 
+<hr>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me/1268569313938509845) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagritisachdeva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jagriti-sachdeva/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jags.jagriti12@gmail.com) 
+<h2>🌐 Connect with Me:</h2>
+<a href="https://discord.com/channels/@me/1268569313938509845" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" 
+       alt="Discord" 
+       style="border-radius: 20px; height: 32px;" />
+</a>
+<a href="https://instagram.com/jagritisachdeva" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" 
+       alt="Instagram" 
+       style="border-radius: 8px; height: 32px;" />
+</a>
+<a href="https://www.linkedin.com/in/jagriti-sachdeva/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" 
+       alt="LinkedIn" 
+       style="border-radius: 8px; height: 32px;" />
+</a>
+<a href="mailto:jags.jagriti12@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" 
+       alt="Email" 
+       style="border-radius: 8px; height: 32px;" />
+</a>
 
+
+<hr>
+
+<h2>👩‍💻 Tech Stack & Tools:</h2>
 <!-- 🧠 Core Programming Languages -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
   <h3 style="margin: 0 16px 0 0;">🧠 Core Programming Languages</h3>
