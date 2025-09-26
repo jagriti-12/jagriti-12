@@ -126,6 +126,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
 <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
 <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
 </div>
 
 <!-- ⚙️ Productivity & Others -->
