@@ -2,6 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=jagriti-12&label=Profile%20views&color=0e75b6&style=flat" alt="jagriti" />
 </p>
 <h1 align="center">Hi, I'm Jagriti <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=F7DD56&center=true&vCenter=true&width=900&lines=Frontend+Developer+%E2%9A%A1;UI/UX+ Designer+%7C;Data+Analyst;Showcasing+Frontend%2C+AI%2C+Research%2C+UI%2FUX;Built+With+Precision+and+Love+by+Jagriti+Sachdeva" /></p>
 <h3 align="center">Recent Grad in Computer Science from Chandigarh University and exploring the realm of Full Stack Development, UI/UX Designing and Project Management.</h3>
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
