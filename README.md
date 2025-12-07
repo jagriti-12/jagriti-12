@@ -1,6 +1,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jagriti-12&label=Profile%20views&color=0e75b6&style=flat" alt="jagriti" />
 </p>
+<h1 align="center">Hi, I'm Jagriti <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1> 
 <h3 align="center">Recent Grad in Computer Science from Chandigarh University and exploring the realm of Full Stack Development, UI/UX Designing and Project Management.</h3>
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
